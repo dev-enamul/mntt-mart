@@ -67,7 +67,7 @@
                     <div class="floatleft marginleft10">
                         <ul class="inline-ul floatleft">
                             <li>Hello Admin</li>
-                            <li><a href="log.php">Logout</a></li>
+                            <li><a href="../index.php">Logout</a></li>
                         </ul>
                     </div>
                 </div>

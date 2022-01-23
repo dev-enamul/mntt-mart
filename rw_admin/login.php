@@ -31,6 +31,8 @@
 		?>
 		<form action="" method="post">
 			<h1>Admin Login</h1>
+			<p>Username : admin</p>
+			<p>Password : 123456</p> <br>
 			<div>
 				<input type="text" placeholder="Username" required="" name="username"/>
 			</div>

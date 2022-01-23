@@ -102,14 +102,16 @@
    ?>
             <form action="" class="resister_form" method="post">
                 <h2>Login to your account</h2>
+                <p>E-Mail: user@gmail.com</p>
+                <p>Password: 123456</p>
                 <div class="input-container">
                   
                   <input class="input-field" type="text" placeholder="E-Mail" name="email">
+                  
                 </div>
-                
                 <div class="input-container">
-                   
                   <input class="input-field" type="password" placeholder="Password" name="psw">
+                  
                 </div>
                 <div class="i-container">
                   <a href="#" style="text-align: right;">Forgot Password?</a>
