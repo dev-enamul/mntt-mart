@@ -1,0 +1,171 @@
+.cumstomer_details{
+border-right: 10px solid #fff;
+padding-left: 10px;
+ width: 48%;
+ float: left;
+ background: #E6F0F3;
+ overflow: hidden;
+}
+.cumstomer_details table{
+	margin:20px auto;
+}
+.cumstomer_details td{
+	color: #1b548d;
+	padding: 10px;
+	font-size: 15px;
+}
+.vowcher_details{
+padding-left: 10px;
+ width: 48%;
+ float: left;
+ background: #E6F0F3;
+ overflow: hidden;
+}
+.company_logo{
+	width: 50%;
+	float: left;
+}
+.company_logo td{
+	padding: 2px;
+	font-size: 10px;
+} 
+.company_logo p{
+border:1px solid #999; 
+width: 130px;
+padding:5px;
+}
+.cash_voucher{
+	width: 200px;
+    text-align: center;
+    background: rgba(0, 0, 0, .2);
+    padding: 5px;
+    margin: 0px auto;
+}
+.main_voucher{
+	overflow: hidden;
+	width: 100%;
+}
+.main_voucher td{
+	border:1px solid #999;
+	text-align: center;
+}
+.main_voucher a{
+	float: right;
+	background: rgba(0, 0, 0, .5);
+	padding: 5px 20px;
+	color: #fff;
+	font-size: 15px;
+	margin:5px;
+}
+.massage_list{
+	border-left:1px solid #000;
+	height: 509px;
+	width: 100%;
+	padding-left: 10px;
+	overflow: scroll;
+
+}
+
+.single_massage{
+	padding: 5px;
+}
+.single_massage h5{
+	color: #204562;
+    font-size: 15px;
+
+}
+.single_massage span{
+	font-size: 10px;
+	color: #ccc;
+}
+ 
+
+ .admin_chat{
+ 	float: right;
+ 	text-align: right;
+ 	width: 70%;
+ }
+ .cliend_chat{
+ 	float: left;
+ 	text-align: left;
+ 	width: 70%;
+ }
+
+ .cliend_massage{
+   background: #ddd;
+    width: max-content;
+    padding: 8px;
+    border-radius: 12px;
+    text-align: justify;
+    float: left;
+    max-width: 100%;
+ }
+ .admin_massage{
+	background: #12cca7;
+    width: max-content;
+    padding: 8px;
+    border-radius: 12px;
+    text-align: justify;
+    float: right;
+    max-width: 100%;
+    color: #fff;
+ }
+ .cliend_chat small, .admin_chat small{
+ 	color: #999;
+ }
+ .massage_box{
+ 	position: relative;
+ 	margin-top: 10px;
+ }
+ .massage_box i{
+ 	 font-size: 24px;
+    background: #12cca7;
+    color: $ddd;
+    border-radius: 50px;
+    padding: 9px;
+    position: absolute;
+    /* left: 0px; */
+    right: 0px;
+    top: 3px;
+ }
+ .massage_box input{
+    width: 90%;
+    padding: 10px;
+    border: 2px solid #12cca7;
+    margin-top: 5px;
+    border-radius: 9px;
+    font-size: 15px;
+    padding-right: 10px;
+ }
+ .scroll{
+ 	overflow-x: scroll;
+ 	overflow-y: none;
+ 	height: 500px;
+ }
+ 
+
+
+
+
+
+
+
+
+ /* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: none; 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #12cca7; 
+    border-radius: 5px;
+}
+
+ 
